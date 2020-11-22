@@ -1,0 +1,4 @@
+# 运行环境 dev|test|prod|
+spring:
+  profiles:
+    active: dev
