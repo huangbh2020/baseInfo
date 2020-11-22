@@ -1,4 +1,4 @@
-package com.hbh.base.business.jwt.controller;
+package com.hbh.base.business.sysUser.controller;
 
 
 import org.springframework.web.bind.annotation.RequestMapping;

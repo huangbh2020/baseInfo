@@ -1,6 +1,6 @@
-package com.hbh.base.business.jwt.service;
+package com.hbh.base.business.sysUser.service;
 
-import com.hbh.base.business.jwt.entity.SysUser;
+import com.hbh.base.business.sysUser.entity.SysUser;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

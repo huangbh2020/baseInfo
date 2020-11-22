@@ -1,4 +1,4 @@
-package com.hbh.base.business.jwt.entity;
+package com.hbh.base.business.sysUser.entity;
 
 import com.baomidou.mybatisplus.annotation.TableName;
 import com.baomidou.mybatisplus.annotation.IdType;

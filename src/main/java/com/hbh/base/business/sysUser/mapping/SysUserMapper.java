@@ -1,6 +1,6 @@
-package com.hbh.base.business.jwt.mapping;
+package com.hbh.base.business.sysUser.mapping;
 
-import com.hbh.base.business.jwt.entity.SysUser;
+import com.hbh.base.business.sysUser.entity.SysUser;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import org.springframework.stereotype.Repository;
 

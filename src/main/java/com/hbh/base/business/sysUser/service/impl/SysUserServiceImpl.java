@@ -1,8 +1,8 @@
-package com.hbh.base.business.jwt.service.impl;
+package com.hbh.base.business.sysUser.service.impl;
 
-import com.hbh.base.business.jwt.entity.SysUser;
-import com.hbh.base.business.jwt.mapping.SysUserMapper;
-import com.hbh.base.business.jwt.service.SysUserService;
+import com.hbh.base.business.sysUser.entity.SysUser;
+import com.hbh.base.business.sysUser.mapping.SysUserMapper;
+import com.hbh.base.business.sysUser.service.SysUserService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 
