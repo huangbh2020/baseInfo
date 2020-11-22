@@ -1,4 +1,4 @@
-package com.toone.baseInfo.utils;
+package com.toone.base.utils;
 
 /**
  * 状态码返回枚举类

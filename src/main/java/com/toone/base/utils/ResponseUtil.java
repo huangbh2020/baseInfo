@@ -1,4 +1,4 @@
-package com.toone.baseInfo.utils;
+package com.toone.base.utils;
 
 import cn.hutool.json.JSONObject;
 

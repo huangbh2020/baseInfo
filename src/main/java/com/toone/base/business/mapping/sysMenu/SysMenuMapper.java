@@ -1,6 +1,6 @@
-package com.toone.baseInfo.business.mapping.sysMenu;
+package com.toone.base.business.mapping.sysMenu;
 
-import com.toone.baseInfo.business.sysMenu.entity.SysMenu;
+import com.toone.base.business.sysMenu.entity.SysMenu;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import org.springframework.stereotype.Repository;
 

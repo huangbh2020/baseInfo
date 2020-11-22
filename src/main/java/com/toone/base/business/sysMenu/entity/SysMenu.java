@@ -1,4 +1,4 @@
-package com.toone.baseInfo.business.sysMenu.entity;
+package com.toone.base.business.sysMenu.entity;
 
 import com.baomidou.mybatisplus.annotation.TableName;
 import com.baomidou.mybatisplus.annotation.IdType;

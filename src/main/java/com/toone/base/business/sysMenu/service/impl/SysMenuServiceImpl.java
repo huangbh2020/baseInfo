@@ -1,8 +1,8 @@
-package com.toone.baseInfo.business.sysMenu.service.impl;
+package com.toone.base.business.sysMenu.service.impl;
 
-import com.toone.baseInfo.business.sysMenu.entity.SysMenu;
-import com.toone.baseInfo.business.mapping.sysMenu.SysMenuMapper;
-import com.toone.baseInfo.business.sysMenu.service.SysMenuService;
+import com.toone.base.business.sysMenu.entity.SysMenu;
+import com.toone.base.business.mapping.sysMenu.SysMenuMapper;
+import com.toone.base.business.sysMenu.service.SysMenuService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

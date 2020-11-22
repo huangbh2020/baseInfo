@@ -1,8 +1,8 @@
-package com.toone.baseInfo.business.sysMenu.controller;
+package com.toone.base.business.sysMenu.controller;
 
 
-import com.toone.baseInfo.utils.ResponseEntity;
-import com.toone.baseInfo.utils.ResponseUtil;
+import com.toone.base.utils.ResponseEntity;
+import com.toone.base.utils.ResponseUtil;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 import org.springframework.web.bind.annotation.RestController;

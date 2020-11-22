@@ -1,4 +1,4 @@
-package com.toone.baseInfo;
+package com.toone.base;
 import com.baomidou.mybatisplus.annotation.DbType;
 import com.baomidou.mybatisplus.generator.AutoGenerator;
 import com.baomidou.mybatisplus.generator.config.DataSourceConfig;

@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.toone</groupId>
-	<artifactId>baseInfo</artifactId>
+	<artifactId>base</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>analysis</name>
-	<description>hbh</description>
+	<name>base</name>
+	<description>base</description>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
