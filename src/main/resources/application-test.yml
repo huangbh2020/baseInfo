@@ -7,7 +7,7 @@ server:
 spring:
   datasource:
     name: test
-    url: jdbc:mysql://42.192.71.130:3306/huangbhDb?serverTimezone=UTC
+    url: jdbc:mysql://42.192.71.130:3306/ythDB?serverTimezone=UTC
     username: haungbh
     password: toone888
     # 使用druid数据源
